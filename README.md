@@ -5,6 +5,8 @@ Welcome to the world of GIFinator! This nifty Python script transforms a sequenc
 * Reverse the animation 🔁
 * Apply groovy color filters (grayscale or sepia) 🌈
 
+![Foxy Plush 360 GIF](https://s12.gifyu.com/images/Su31I.gif)
+
 ## Usage
 ```shell
 usage: gifinator.py [-h] [-s SPEED] [-r] [-f {grayscale,sepia}] [-v] url output
